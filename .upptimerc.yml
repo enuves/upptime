@@ -4,7 +4,7 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Enuves
+  - name: enuves.com
     url: https://www.enuves.com
 
 status-website:
