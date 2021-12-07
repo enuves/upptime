@@ -4,17 +4,17 @@
     "url": "https://www.enuves.com",
     "icon": "https://favicons.githubusercontent.com/www.enuves.com",
     "slug": "enuves-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 924,
-    "timeDay": 5406,
-    "timeWeek": 1611,
-    "timeMonth": 1300,
-    "timeYear": 924,
+    "time": 960,
+    "timeDay": 7266,
+    "timeWeek": 2653,
+    "timeMonth": 1602,
+    "timeYear": 960,
     "dailyMinutesDown": {}
   }
 ]
